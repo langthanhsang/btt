@@ -47,11 +47,10 @@ public class Main {
                     break;
                 case 7:
                     System.out.println("7.findMaxPriceCandy");
+                    managerCandy.findMaxPriceCandy();
 
                     break;
-                case 8:
-                    System.out.println("7.findMaxPriceCandy");
-                    break;
+
                 case 0:
                     System.out.println("0. exit");
                     break;
